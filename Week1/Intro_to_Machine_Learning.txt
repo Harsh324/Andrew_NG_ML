@@ -1,0 +1,23 @@
+** What is Machine Learning
+
+    ** Arthur Samuel defined machine learning as the field of
+       study that gives computers the ability to learn without
+       being explicitly programmed.
+
+    ** Samuel's claim to fame was that back in the 1950s, he wrote
+       a checkers playing program. The amazing thing about this
+       program was that Arthur Samuel himself wasn't a very good 
+       checkers player.
+
+
+** Types of Machine Learning
+
+    ** The two main types of machine learning are supervised learning
+       and unsupervised learning.
+
+    ** Of these two, supervised learning is the type of machine
+       learning that is used most in many real-world applications
+       and has seen the most rapid advancements and innovation.
+
+       
+
